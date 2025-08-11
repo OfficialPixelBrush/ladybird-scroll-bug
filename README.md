@@ -20,6 +20,12 @@ TEST TEXT
 
 TEST TEXT
 
+### The problem
+```bash
+git clone --recurse-submodules https://github.com/OfficialPixelBrush/BetrockServer.git
+cd BetrockServer
+```
+
 TEST TEXT
 
 TEST TEXT
